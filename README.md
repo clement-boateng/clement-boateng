@@ -1,6 +1,8 @@
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="[https://your-banner-link-here.png](https://drive.google.com/file/d/1qiVcGRT_z2Rln-7J0BkUv230iAgY7eY_/view?usp=sharing)" alt="Clement Boateng - Cybersecurity Banner" width="100%" />
+  <img src="https://drive.google.com/uc?export=view&id=1qiVcGRT_z2Rln-7J0BkUv230iAgY7eY_" 
+       alt="Clement Boateng - Cybersecurity Banner" 
+       width="100%" />
 </p>
 
 <h2 align="center">Hi, I’m Clement </h2>

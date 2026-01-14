@@ -3,7 +3,7 @@
   <img src="https://your-banner-link-here.png" alt="Clement Boateng - Cybersecurity Banner" width="100%" />
 </p>
 
-<h2 align="center">Hi, I’m Clement 👋</h2>
+<h2 align="center">Hi, I’m Clement </h2>
 
 <p align="center">
   Aspiring Cybersecurity Professional | Networking • Linux • Vulnerability Assessment

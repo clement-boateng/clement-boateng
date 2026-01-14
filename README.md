@@ -48,7 +48,7 @@
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-link-here" target="_blank">
+  <a href="[https://linkedin.com/in/your-link-here](https://www.linkedin.com/in/clement-boateng/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

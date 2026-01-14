@@ -26,10 +26,9 @@
 - Network scanning and traffic analysis
 - Understanding of social engineering concepts
 - Linux fundamentals for security operations
-- Basic scripting and reporting
 
 ---
-
+<!--
 ## 📂 Projects & Practice
 - Network scanning and service enumeration using **Nmap**
 - Web vulnerability identification using **Nikto**
@@ -45,6 +44,7 @@
 - Linux administration for security
 
 ---
+-->
 
 ## 📫 Connect with Me
 <p align="left">

@@ -1,16 +1,54 @@
-## Hi there 👋
+<!-- BANNER IMAGE -->
+<p align="center">
+  <img src="https://your-banner-link-here.png" alt="Clement Boateng - Cybersecurity Banner" width="100%" />
+</p>
 
-<!--
-**clement-boateng/clement-boateng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi, I’m Clement 👋</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  Aspiring Cybersecurity Professional | Networking • Linux • Vulnerability Assessment
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-2E3440?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-1F2937?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+---
+
+## 🔐 Core Skills
+- Vulnerability scanning & assessment (lab-based)
+- Network scanning and traffic analysis
+- Understanding of social engineering concepts
+- Linux fundamentals for security operations
+- Basic scripting and reporting
+
+---
+
+## 📂 Projects & Practice
+- Network scanning and service enumeration using **Nmap**
+- Web vulnerability identification using **Nikto**
+- Controlled exploitation and analysis using **Metasploit**
+- Packet capture and analysis using **Wireshark**
+- Hands-on labs in **Kali Linux** environments
+
+---
+
+## 📚 Currently Learning
+- Defensive security practices
+- Cybersecurity operations
+- Linux administration for security
+
+---
+
+## 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/your-link-here" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>

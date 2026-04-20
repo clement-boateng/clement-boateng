@@ -1,6 +1,7 @@
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1qiVcGRT_z2Rln-7J0BkUv230iAgY7eY_" 
+  <!-- <img src="https://drive.google.com/uc?export=view&id=1qiVcGRT_z2Rln-7J0BkUv230iAgY7eY_" -->
+    <img src="https://drive.google.com/file/d/1qiVcGRT_z2Rln-7J0BkUv230iAgY7eY_/view?usp=drive_link" 
        alt="Clement Boateng - Cybersecurity Banner" 
        width="100%" />
 </p>

@@ -1,12 +1,12 @@
 <!-- BANNER IMAGE -->
 <p align="center">
-  <!-- <img src="https://drive.google.com/uc?export=view&id=1qiVcGRT_z2Rln-7J0BkUv230iAgY7eY_" -->
-    <img src="https://drive.google.com/file/d/1qiVcGRT_z2Rln-7J0BkUv230iAgY7eY_/view?usp=drive_link" 
+  <img src="https://drive.google.com/uc?export=view&id=1Hoj2ZblLlGafTYDkOhWfa2__eOd_YWlM" 
        alt="Clement Boateng - Cybersecurity Banner" 
        width="100%" />
 </p>
-
-<h2 align="center">Hi, I’m Clement </h2>
+<!--https://drive.google.com/file/d/1qiVcGRT_z2Rln-7J0BkUv230iAgY7eY_/view?usp=drive_link
+https://drive.google.com/file/d/1Hoj2ZblLlGafTYDkOhWfa2__eOd_YWlM/view?usp=drive_link
+<h2 align="center">Hi, I’m Clement </h2> -->
 
 <p align="center">
   Aspiring Cybersecurity Professional | Vulnerability Assessment | Network Security

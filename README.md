@@ -4,12 +4,9 @@
        alt="Clement Boateng - Cybersecurity Banner" 
        width="100%" />
 </p>
-<!--https://drive.google.com/file/d/1qiVcGRT_z2Rln-7J0BkUv230iAgY7eY_/view?usp=drive_link
-https://drive.google.com/file/d/1Hoj2ZblLlGafTYDkOhWfa2__eOd_YWlM/view?usp=drive_link
-<h2 align="center">Hi, I’m Clement </h2> -->
 
 <p align="center">
-  Aspiring Cybersecurity Professional | Vulnerability Assessment | Network Security
+  Security Analyst | Penetration Testing | Human-Centred Security
 </p>
 
 ---
@@ -20,15 +17,13 @@ https://drive.google.com/file/d/1Hoj2ZblLlGafTYDkOhWfa2__eOd_YWlM/view?usp=drive
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-1F2937?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </p>
 
 ---
 
 ## 🔐 Core Skills
-- Vulnerability scanning & assessment (lab-based)
-- Network scanning and traffic analysis
-- Understanding of social engineering concepts
-- Linux fundamentals for security operations
+Vulnerability Scanning and Assessment  |  Network Scanning and Traffic Analysis  |  Log Analysis and Incident Investigation  |  Social Engineering Awareness and Analysis
 
 ---
 <!--

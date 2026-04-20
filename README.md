@@ -14,6 +14,7 @@
 ## 🛠️ Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Nmap-2E3440?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-1F2937?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />

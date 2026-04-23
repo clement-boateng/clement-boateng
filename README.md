@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Nmap-2E3440?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logoColor=white" />
@@ -23,27 +23,10 @@
 
 ---
 
-## 🔐 Core Skills
+## Core Skills
 Vulnerability Scanning and Assessment    |    Network Scanning and Traffic Analysis    |    Log Analysis and Incident Investigation   |   Social Engineering Awareness and Analysis
 
 ---
-<!--
-## 📂 Projects & Practice
-- Network scanning and service enumeration using **Nmap**
-- Web vulnerability identification using **Nikto**
-- Controlled exploitation and analysis using **Metasploit**
-- Packet capture and analysis using **Wireshark**
-- Hands-on labs in **Kali Linux** environments
-
----
-
-## 📚 Currently Learning
-- Defensive security practices
-- Cybersecurity operations
-- Linux administration for security
-
----
--->
 
 <!--## 📫 Connect with Me -->
 <p align="left">

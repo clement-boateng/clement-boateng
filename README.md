@@ -21,12 +21,11 @@
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </p>
 
----
+
 
 ## Core Skills
 Vulnerability Scanning and Assessment    |    Network Scanning and Traffic Analysis    |    Log Analysis and Incident Investigation   |   Social Engineering Awareness and Analysis
 
----
 
 <!--## 📫 Connect with Me -->
 <p align="left">

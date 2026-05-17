@@ -34,5 +34,8 @@ Vulnerability Scanning and Assessment    |    Network Scanning and Traffic Analy
   </a>
 </p>
 
+---
+
 ## Projects List
 - [Penetration test following the PTES methodology](https://github.com/clement-boateng/penetration-testing-lab)
+- [SSH Brute-Force Attack](https://github.com/clement-boateng/Bruteforce-attack-demonstration)

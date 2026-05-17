@@ -33,3 +33,6 @@ Vulnerability Scanning and Assessment    |    Network Scanning and Traffic Analy
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+## Projects List
+- [Penetration test following the PTES methodology](https://github.com/clement-boateng/penetration-testing-lab)

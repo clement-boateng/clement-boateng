@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Nmap-2E3440?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-1F2937?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </p>
@@ -37,5 +36,6 @@ Vulnerability Scanning and Assessment    |    Network Scanning and Traffic Analy
 ---
 
 ## Projects List
+- [Reconnaissance Automation Tool](https://github.com/clement-boateng/penetration-testing-lab)
 - [Penetration test following the PTES methodology](https://github.com/clement-boateng/penetration-testing-lab)
 - [SSH Brute-Force Attack](https://github.com/clement-boateng/Bruteforce-attack-demonstration)

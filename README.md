@@ -36,6 +36,6 @@ Vulnerability Scanning and Assessment    |    Network Scanning and Traffic Analy
 ---
 
 ## Projects List
-- [Reconnaissance Automation Tool](https://github.com/clement-boateng/penetration-testing-lab)
+- [Reconnaissance Automation Tool](https://github.com/clement-boateng/reconnaissance-automation-tool.git)
 - [Penetration test following the PTES methodology](https://github.com/clement-boateng/penetration-testing-lab)
 - [SSH Brute-Force Attack](https://github.com/clement-boateng/Bruteforce-attack-demonstration)

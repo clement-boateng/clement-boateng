@@ -9,7 +9,7 @@
   Security Operations | Penetration Testing | Human-Centred Security
 </p>
 -->
----
+
 
 ## Tools & Technologies
 <p align="left">

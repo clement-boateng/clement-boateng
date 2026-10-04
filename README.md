@@ -23,7 +23,7 @@
 
 
 ## Core Skills
-Vulnerability Scanning and Assessment    |    Network Scanning and Traffic Analysis    |    Log Analysis and Incident Investigation   |   Social Engineering Threat Analysis & Awareness
+Vulnerability Scanning and Assessment    |    Network Scanning and Traffic Analysis    |    Security Operations   |   Social Engineering Threat Analysis & Awareness
 
 
 <!--## 📫 Connect with Me -->

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Security Analyst | Penetration Testing | Human-Centred Security
+  Security Operations | Penetration Testing | Human-Centred Security
 </p>
 
 ---

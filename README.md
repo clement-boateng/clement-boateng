@@ -4,11 +4,11 @@
        alt="Clement Boateng - Cybersecurity Banner" 
        width="100%" />
 </p>
-
+<!-- BANNER IMAGE 
 <p align="center">
   Security Operations | Penetration Testing | Human-Centred Security
 </p>
-
+-->
 ---
 
 ## Tools & Technologies
